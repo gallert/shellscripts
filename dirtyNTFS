@@ -1,1 +1,2 @@
+sudo ntfsfix /dev/sdxY
 sudo ntfs-3g -o remove_hiberfile /dev/sdxY /path/to/mount
